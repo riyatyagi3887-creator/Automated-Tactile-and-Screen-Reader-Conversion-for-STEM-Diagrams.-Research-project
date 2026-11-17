@@ -1,0 +1,1 @@
+# Automated-Tactile-and-Screen-Reader-Conversion-for-STEM-Diagrams.-Research-project
